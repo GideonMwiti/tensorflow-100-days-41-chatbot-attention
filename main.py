@@ -18,7 +18,7 @@ def get_dataset():
         ("good morning", "good morning ! hope you have a wonderful day ."),
         ("goodbye", "goodbye ! have a nice day ."),
         ("tell me a joke", "why did the computer go to the doctor ? it had a virus !"),
-        ("who created you", "i was created by a developer using deep learning ."),
+        ("who created you", "i was created by a Gideon Mwiti using deep learning ."),
         ("what is deep learning", "it is a branch of machine learning based on neural networks ."),
         ("what is tensorflow", "tensorflow is an open source machine learning framework by google ."),
         ("what is attention", "attention helps models focus on relevant parts of the input ."),
